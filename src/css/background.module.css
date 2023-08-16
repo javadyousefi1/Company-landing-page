@@ -1,0 +1,6 @@
+.footerBg {
+  background: url("../image/footerbg.png") no-repeat center center;
+  background-size: cover;
+  width: 100%;
+
+}
